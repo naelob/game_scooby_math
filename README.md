@@ -14,12 +14,15 @@ Test with the demo : https://scooby-math.netlify.app/
 
 1. HOME
 
-![scooby](https://user-images.githubusercontent.com/39710677/104771067-eb90fa00-5771-11eb-9d9b-079a5dc97536.png)
 
 On the left, you can try the maths part.
 On the right, you can play the dice game.
 
+![scooby](https://user-images.githubusercontent.com/39710677/104771067-eb90fa00-5771-11eb-9d9b-079a5dc97536.png)
+
+
 2. MATHS PART
+
 Here is the maths part.
 You can choose 2 modes.
 [PROBABILITIES] (left) [PASCAL TRIANGLE] (right)
