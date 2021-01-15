@@ -1,0 +1,72 @@
+@font-face {
+    font-family: "Ubuntu-italic";
+    src: url(fonts/Ubuntu/Ubuntu-MediumItalic.ttf);
+}
+
+@font-face {
+    font-family: "Ubuntu";
+    src: url(fonts/Ubuntu/Ubuntu-Regular.ttf);
+}
+
+* {
+    font-family: Ubuntu-italic;
+}
+
+body {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    height: 100vh;  
+    background-color: #202020;
+}
+
+.logo-img {
+    text-align: center;
+    padding: 3%;
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 450px;
+    width: 650px;
+    background-color: #9980FA;
+    border-radius: 25px;
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+}
+img{
+    border-radius: 25px;
+}
+
+.Games {
+    position: relative;
+}
+
+.Game1 {
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    left: -18px;
+    top: 100px;
+}
+img:hover{
+    box-shadow: 10px orange;
+}
+
+.Game2 {
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    right: -18px;
+    top: 100px;
+}
+.Game3 {
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    top: 200px;
+    left: 220px
+}

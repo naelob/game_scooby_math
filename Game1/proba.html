@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Game1</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+    <link rel="stylesheet" href="proba.css">
+
+
+</head>
+
+<body>
+    <div class="container">
+        <div class="logo-img">
+
+            <a href="../home.html"><img src="../fonts/family.png" width="200px"><br></a>
+
+        </div>
+        <div class="infos-prob" id="infos">
+            <label for="taille" style="font-size:14px;">Taille du tableau:</label><br>
+            <input type="text" id="taille" placeholder="Entrez Votre Taille!"><br>
+            <input type="button" id="envoyer-1" value="Click">
+            <input type="button" id="reset-1" value="Reset">
+
+            <br>
+            <label for="tableau" style="font-size:14px;">Données du tableau:</label><br>
+            <input type="text" name="tableau" id="tab" placeholder="Tapez vos chiffres!"><br>
+            <input type="button" id="envoyer-2" value="Click">
+            <input type="button" id="reset-2" value="Reset">
+
+
+
+        </div>
+        <div class="resultats">
+            <div class="res">
+                <h4>Moyenne</h4>
+                <p id="moyenne"></p>
+            </div>
+            <div class="res">
+                <h4>Variance</h4>
+                <p id="variance"></p>
+            </div>
+
+            <div class="res">
+
+                <h4>Ecart-Type</h4>
+                <p id="ecart-type"></p>
+
+            </div>
+
+
+
+
+
+
+        </div>
+
+
+
+        <script src="proba.js"></script>
+
+</body></html>
