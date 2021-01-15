@@ -55,6 +55,7 @@ LAST OPTION: "SUITE DE STERN"
 
 
 3. DICE GAME PART
+
 Here is the dice "SCOOBY DOO" game.
 Each time you roll the dice, a random score linked with the character is added to the current score.
 You have 2 options:
