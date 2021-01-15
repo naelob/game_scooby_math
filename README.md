@@ -10,4 +10,4 @@ Of course, you can lose all your points won previously.
 
 Let's play ! 
 
-Test with the demo : scooby-math.netlify.app
+Test with the demo : https://scooby-math.netlify.app/
