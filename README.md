@@ -25,7 +25,10 @@ On the right, you can play the dice game.
 
 Here is the maths part.
 You can choose 2 modes.
-[PROBABILITIES] (left) [PASCAL TRIANGLE] (right)
+
+[PROBABILITIES] (left) 
+
+[PASCAL TRIANGLE] (right)
 
 ![Capture d’écran 2021-01-15 à 20 43 13](https://user-images.githubusercontent.com/39710677/104771213-3ad72a80-5772-11eb-8af8-08abee583c8b.png)
 
@@ -59,10 +62,12 @@ LAST OPTION: "SUITE DE STERN"
 Here is the dice "SCOOBY DOO" game.
 Each time you roll the dice, a random score linked with the character is added to the current score.
 You have 2 options:
+
     - ROLL AGAIN => EARN A BETTER SCORE IN ONE SHOT
     - HOLD => LET THE OPPONENT PLAY (FICTIONAL OPPONENT)
  
 IF YOU HAVE A CERTAIN SCORE YOU WIN THE GAME ! 
+
 BE CAREFUL THOUGH, FOR INSTANCE IF YOU FALL ON A GHOST YOU LOSE POINTS....
 
 ![Capture d’écran 2021-01-15 à 20 58 28](https://user-images.githubusercontent.com/39710677/104772838-62c78d80-5774-11eb-8a10-1631b525d8e7.png)
