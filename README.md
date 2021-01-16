@@ -10,7 +10,7 @@ Of course, if you roll twice multiple times the dice you can lose all your point
 
 Let's play ! 
 
-Test with the demo : https://scooby-math.netlify.app/
+Demo : https://scooby-math.netlify.app/
 
 1. HOME
 
