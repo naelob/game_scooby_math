@@ -73,3 +73,13 @@ BE CAREFUL THOUGH, FOR INSTANCE IF YOU FALL ON A GHOST YOU LOSE POINTS....
 ![Capture d’écran 2021-01-15 à 20 58 28](https://user-images.githubusercontent.com/39710677/104772838-62c78d80-5774-11eb-8a10-1631b525d8e7.png)
 
 
+[TOTALLY SPIES THEME]
+
+![Capture d’écran 2021-01-16 à 01 17 30](https://user-images.githubusercontent.com/39710677/104790790-8d2b4200-5798-11eb-8763-ac095fed4bf1.png)
+
+
+[THE SIMPSONS THEME]
+
+![Capture d’écran 2021-01-16 à 01 17 12](https://user-images.githubusercontent.com/39710677/104790814-a3390280-5798-11eb-8b23-1024b9cefff6.png)
+
+
